@@ -44,9 +44,9 @@ There used to be temples here, she says. And they used to be tall and grand, and
 One must wonder if those stygian-filligreed constructs have survived in the peat and moss."
 
 // North Coast
-#define DETAIL_TEXT_NORTH_COAST "Chilly winds blow from the palagic northways. This is the part of land where the trading ships hook 'round to return to land after months' voyages- and where they are plundered by ne'er-do-wells. \n\
+#define DETAIL_TEXT_NORTH_COAST "Chilly winds blow from the pelagic northways. This is the part of land where the trading ships hook 'round to return to land after months' voyages- and where they are plundered by ne'er-do-wells. \n\
 Abyssor rests offshore. Even his quietest exhale is enough to send waves from the hadal to crash onto sand."
-#define DETAIL_TEXT_NORTH_COAST_HAMLET ""
+#define DETAIL_TEXT_NORTH_COAST_HAMLET " Empty houses, and rotting fields. A half-hundred homesteaders broke ground here, before the touch of Zizo swept the north.  Some of their bones still yet remain, clustered around their once-chapel in a twisted pantomime of lyfe. Above the altar, a promise has been scratched into stained glass: This too shall stand."
 #define DETAIL_TEXT_MAD_DUKE_COURT ""
 
 // Actual Azure Coast
