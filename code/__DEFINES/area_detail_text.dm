@@ -17,7 +17,7 @@
 // Hotsprings
 #define DETAIL_TEXT_EORAN_SHRINE "An Eoran shrine, nestled high in the mountains, hidden away from well-trodden paths. Cherry blossom, a symbol of both love and the fleeting nature of lyfe in Kazengun, are planted and maintained here by Eoran devotees.\n\
 	Oddly, the trees here seem to bloom year-round."
-#define DETAIL_TEXT_ABANDONED_HOT_SPRINGS ""
+#define DETAIL_TEXT_ABANDONED_HOT_SPRINGS " A pit of silken webs, nestled deep within the bog. The love that once bloomed here has curdled into venom, and stranger things now bud and scuttle through the water."
 
 // Azure Grove
 #define DETAIL_TEXT_AZURE_GROVE ""
